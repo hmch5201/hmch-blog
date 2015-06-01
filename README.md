@@ -24,3 +24,25 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-clean-blog/blob/gh-pages/LICENSE) license.
+
+```
+brew install npm
+npm install -g bower
+bower login
+
+Origoni-Mac:~ olivia$ bower register origoni-startbootstrap-clean-blog https://github.com/origoni/startbootstrap-clean-blog.git
+bower convert       Converted https://github.com/origoni/startbootstrap-clean-blog.git to git://github.com/origoni/startbootstrap-clean-blog.git
+bower resolve       git://github.com/origoni/startbootstrap-clean-blog.git#*
+bower download      https://github.com/origoni/startbootstrap-clean-blog/archive/1.0.3.tar.gz
+bower extract       origoni-startbootstrap-clean-blog#* archive.tar.gz
+bower resolved      git://github.com/origoni/startbootstrap-clean-blog.git#1.0.3
+? Registering a package will make it installable via the registry (https://bower.herokuapp.com), ? Registering a package will make it installable via the registry (https://bower.herokuapp.com), continue? Yes
+bower register      git://github.com/origoni/startbootstrap-clean-blog.git
+
+Package origoni-startbootstrap-clean-blog registered successfully!
+All valid semver tags on git://github.com/origoni/startbootstrap-clean-blog.git will be available as versions.
+To publish a new version, just release a valid semver tag.
+
+Run bower info origoni-startbootstrap-clean-blog to list the available versions.
+Origoni-Mac:~ olivia$
+```
