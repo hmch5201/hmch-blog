@@ -46,3 +46,5 @@ To publish a new version, just release a valid semver tag.
 Run bower info origoni-startbootstrap-clean-blog to list the available versions.
 Origoni-Mac:~ olivia$
 ```
+
+- http://bower.io/search/?q=origoni-startbootstrap-clean-blog
