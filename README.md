@@ -25,6 +25,7 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-clean-blog/blob/gh-pages/LICENSE) license.
 
+
 ```
 brew install npm
 npm install -g bower
@@ -48,3 +49,29 @@ Origoni-Mac:~ olivia$
 ```
 
 - http://bower.io/search/?q=origoni-startbootstrap-clean-blog
+
+
+
+```
+Deployed!
+It will take a few hours for the Maven Central index to update but you should be able to start using the Bower WebJar now.
+GroupID = org.webjars.bower
+ArtifactID = origoni-startbootstrap-clean-blog
+Version = 1.0.3
+            
+Synced With Maven Central
+Published BinTray Version
+Signed BinTray Assets
+Published BinTray Assets
+Created BinTray Version
+Created BinTray Package
+Converted project licenses
+Created Bower WebJar
+Fetched Bower zip
+Generated POM
+Converted dependencies to Maven
+Got Bower info
+Starting Deploy
+```
+
+- http://search.maven.org/#search%7Cga%7C1%7Corigoni-startbootstrap-clean-blog
